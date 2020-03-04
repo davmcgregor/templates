@@ -18,11 +18,10 @@
 
 ## <a name="Methods">Objects & Methods</a>
 
-| Object: | test | | | |
-| ------- | ------- | - | - | - |
-| **Attributes:** | test | test | test | |
-| **Methods:** | test | test | test | test |
-
+| Object      | test_object  |   |   |
+|-------------|:-:|--:|---|
+| Attributes: | test_attribute  | test_attribute  |   |
+| Methods:    | test_method  |  test_method |   |
 
 <br>
 
