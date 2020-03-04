@@ -18,7 +18,7 @@
 
 ## <a name="Methods">Objects & Methods</a>
 
-| Object: | test | 
+| Object: | test | | | |
 | ------- | ------- | - | - | - |
 | **Attributes:** | test | test | test | |
 | **Methods:** | test | test | test | test |
@@ -26,10 +26,10 @@
 
 <br>
 
-| Object: | test | | 
-| ------- | ----- | 
-| **Attributes:** | test |
-| **Methods:** | test |
+| Object      |   |   |   |
+|-------------|:-:|--:|---|
+| Attributes: |   |   |   |
+| Methods:    |   |   |   |
 
 ## <a name="Acceptance_Criteria">Acceptance Criteria</a>
 
