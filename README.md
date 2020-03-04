@@ -18,7 +18,7 @@
 
 ## <a name="Methods">Objects & Methods</a>
 
-| Object: | test | | | |
+| Object: | test | 
 | ------- | ------- | - | - | - |
 | **Attributes:** | test | test | test | |
 | **Methods:** | test | test | test | test |
