@@ -33,7 +33,7 @@
 ## <a name="Input_Output">Input & Output</a>
 
 | Input | Output |
-| | |
+| ----- | ------ |
 | | |
 
 ## <a name="Acceptance_Criteria">Acceptance Criteria</a>
