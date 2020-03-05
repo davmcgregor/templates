@@ -34,7 +34,8 @@
 
 | Input | Output |
 | ----- | ------ |
-| | |
+| test  | test   |
+| test  | test   |
 
 ## <a name="Acceptance_Criteria">Acceptance Criteria</a>
 
