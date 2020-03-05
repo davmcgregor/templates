@@ -44,6 +44,7 @@
 **When** user does something
 **Then** user should see
 ```
+output
 ```
 
 ## <a name="Further_Improvements">Acceptance Criteria</a>
