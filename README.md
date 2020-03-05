@@ -30,6 +30,12 @@
 | Attributes: | test_attribute  | test_attribute  |   |
 | Methods:    | test_method  |  test_method |   |
 
+## <a name="Input_Output">Input & Output</a>
+
+| Input | Output |
+| | |
+| | |
+
 ## <a name="Acceptance_Criteria">Acceptance Criteria</a>
 
 **Given**
