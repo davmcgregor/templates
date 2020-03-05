@@ -39,10 +39,10 @@
 
 ## <a name="Acceptance_Criteria">Acceptance Criteria</a>
 
-**Given**
-**And**
-**When** 
-**Then**
+**Given** user does this
+**And** user also does this
+**When** user does something
+**Then** user should see
 ```
 ```
 
